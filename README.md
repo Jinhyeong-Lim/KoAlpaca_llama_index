@@ -1,4 +1,8 @@
 # KoAlpaca_llama_index
+
+<img width="237" alt="image" src="https://github.com/Jinhyeong-Lim/KoAlpaca_llama_index/assets/64317686/5d9e9142-0250-4785-a798-24b35e1c2bee">
+<img width="225" alt="image" src="https://github.com/Jinhyeong-Lim/KoAlpaca_llama_index/assets/64317686/bef6f7da-712e-4e46-a3a6-e3081fdbc378">
+
 - [llama_index](https://github.com/jerryjliu/llama_index/tree/main)는 사용자가 갖고 있는 private 데이터를 LLMs에 추가, 확장하기 위해 제안된 data framework
 - **UnStructured Data**(pdf, txt, videos, images, etc.), **Structured Data**(Excel, SQL, etc.) **Semi-Structured**(Salesforce, Notion, etc.) 데이터를 활용할 수 있음
 
