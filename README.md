@@ -1,11 +1,13 @@
 # KoAlpaca_llama_index
+- [llama_index](https://github.com/jerryjliu/llama_index/tree/main)는 사용자가 갖고 있는 private 데이터를 LLMs에 추가, 확장하기 위해 제안된 data framework
+- **UnStructured Data**(pdf, txt, videos, images, etc.), **Structured Data**(Excel, SQL, etc.) **Semi-Structured**(Salesforce, Notion, etc.) 데이터를 활용할 수 있음
+
+ ### 예제
 - LLM
   - [beomi/KoAlpaca](https://github.com/Beomi/KoAlpaca)
 - Document
   - [Viquna 모델 정리.pdf](https://github.com/Jinhyeong-Lim/KoAlpaca_llama_index/files/11927708/Viquna.pdf)
 
-
-### 예제
 |Type|Text|
 |---|---|
 |Query|Viquna 모델 학습 방법에 대해 설명해줘|
