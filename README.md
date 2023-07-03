@@ -15,6 +15,7 @@
 
 |Type|Text|
 |---|---|
-|Query|Viquna 모델 학습 방법에 대해 설명해줘|
-|[ChatKoAlpaca](https://chat.koalpaca.com/)|Viquna 모델은 Hierarchical relationship model을기반으로 한 얼굴 인식 및 객체 검출에 사용되는 딥러닝 모델입니다. Viquna는sklearn과 torch 모델이며 linear regression, binary classification, semi-supervised learning등의 서브 모델을 포함하고 있습니다.|
-|KoAlpaca_llama_index (using Document)|Viquna 모델은 대화 기반 챗봇 학습 방법으로 대화 데이터를 사용하여 학습하는 언어 모델입니다. 이 모델은 대화 데이터를 사용하여 새로운 대화 데이터를 생성하고 이를 사용하여 학습하며, 이를 통해 새로운 대화를 생성하는 능력을 향상시키고 있습니다|
+|Query|Vicuna 모델 학습 방법에 대해 설명해줘|
+|[ChatKoAlpaca](https://chat.koalpaca.com/)|Vikuna 모델의 학습 방법은 지도학습으로, 데이터를 기반으로 모델이 연속적인 출력을 생성합니다.|
+|KoAlpaca-7B_llama_index (using Document)|Vicuna 모델은 대화 내 텍스트 데이터를 이용하여 샘플을 추출하고 처리하며, 이를 토론토 알고리즘을 사용하여 최종 출력을 생성합니다. 이 모델은 대화 내 텍스트 데이터를 이용하여 샘플을 추출하고 처리하며, 이를 토론토 알고리즘을 사용하여 최종 출력을 생성합니다. 이러한 한계를 해결하기 위해 Vicuna가 future research의 open starting point가 되길|
+|KoVicuna-7B_llama_index|Vicuna 모델은 컨텍스트 정보를 활용하여 대화 상호작용을 더 잘 이해하고 응답을 생성하는 방법을 학습하도록 설계되었습니다. 이는 챗봇 및 기타 자연어 처리 애플리케이션에 유용할 수 있습니다. 이 모델은 대화 샘플 70,000개를 사용하여 학습되었으며, 더 나은 성능을 위해 챗봇 및 기타 모델에 사용|
