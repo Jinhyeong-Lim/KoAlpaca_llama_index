@@ -10,7 +10,8 @@
 - LLM
   - [beomi/KoAlpaca](https://github.com/Beomi/KoAlpaca)
 - Document
-  - [Viquna 모델 정리.pdf](https://github.com/Jinhyeong-Lim/KoAlpaca_llama_index/files/11927708/Viquna.pdf)
+  - [Vicuna.pdf](https://github.com/Jinhyeong-Lim/KoAlpaca_llama_index/files/11933271/Vicuna.pdf)
+
 
 |Type|Text|
 |---|---|
